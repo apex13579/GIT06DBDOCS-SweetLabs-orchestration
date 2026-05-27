@@ -9,9 +9,9 @@
 8. patch panel
 9. aggregation switch
 10. patch panel
-11. -
-12. -
-13. -
+11. 2 tiny pc
+12. 2 tiny pc
+13. 2 tiny pc
 14. -
 15. -
 16. -
