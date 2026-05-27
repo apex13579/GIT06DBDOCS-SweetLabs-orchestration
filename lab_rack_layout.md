@@ -18,7 +18,7 @@
 17. -
 18. -
 19. -
-20. -
+20. blank as thermal dam
 21. ups (networking and storage)
 22. -
 23. ups (compute)
