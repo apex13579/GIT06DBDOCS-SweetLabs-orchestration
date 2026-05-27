@@ -9,9 +9,9 @@
 8. patch panel
 9. aggregation switch
 10. patch panel
-11. 2 tiny pc
-12. 2 tiny pc
-13. 2 tiny pc
+11. 3 nuc cluster for compute
+12. 3 nuc cluster for ai
+13. -
 14. -
 15. -
 16. -
