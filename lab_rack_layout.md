@@ -1,11 +1,11 @@
 # lab layout plan
 1. monitor
 2. kvm
-3. -
+3. nvr
 4. -
 5. pull out work space
 6. modem
-7. gateway
+7. cloud gateway fiber
 8. patch panel
 9. aggregation switch
 10. patch panel
