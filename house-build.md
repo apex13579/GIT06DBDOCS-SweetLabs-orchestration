@@ -14,6 +14,10 @@
 # hvac
 - [thermostat](https://www.amazon.com/Honeywell-Home-Programmable-Customizable-Touchscreen/dp/B0GP37G6XN?psc=1&pd_rd_w=F1NRR&content-id=amzn1.sym.657ef1e8-aef1-4fea-8703-8be46e27259a&pf_rd_p=657ef1e8-aef1-4fea-8703-8be46e27259a&pf_rd_r=JBCBPK3560DMSD1ASV6H&pd_rd_wg=8dK2P&pd_rd_r=9ec2a06c-22d1-4377-a402-38c519611613&ref_=sspa_dk_detail_sbt_1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM=)
 # insulation
+- spray foam in attic and under the house
+- rockwool safe and sound in walls
+- double drywall with green glue
+- clips/channel
 # framing
 # appliances
 # furnature
