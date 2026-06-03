@@ -10,7 +10,7 @@
 - [temp & humidity sensors](https://www.amazon.com/Temperature-Humidity-Digital-Thermometer-Hygrometer/dp/B0DYDDKT4N/ref=sr_1_4?dib=eyJ2IjoiMSJ9.B9xaONs0Eev3Hkp2NOy2Jm9cYOkGFj1gj41BdFUW-oxJWZNmIYTQeGyTN-vRNNn8LRH_KkRF1WVpeGfWmpj81H8oCh4TEKNnlU6BxJ3t1qCNPY_IzBKimHu8ulR0J3oVofBAoeBL6Nfjqg85ItqEZGBiboqbEfkbHY0X9LndorPKDFwq30AwRu2-ifXUBB1hiQ8cVdJO3qZHpQRMedrTxqHzSgZm4mymzg4ZDnnXhLA.HZahD8-Gd9VLLBb2kSUO_-I4ad89jMADXlU9Dl3MpgQ&dib_tag=se&keywords=uya+Zigbee+USB+Temperature+and+Humidity+Sensor&qid=1780508461&sr=8-4)
 # plumbing
 - [leak detection](https://www.homedepot.com/p/SONOFF-Zigbee-Water-Leak-Sensor-with-Detection-Cable-for-Alarm-System-and-Smart-Home-Automation-SNZB-05P-C/700077280)
-- 
+- [water and gas shutoff](https://www.amazon.com/Reinforced-Mounting-SmartThings-Compatible-Motorized/dp/B0F1F9QBJJ/ref=sr_1_4?adgrpid=1345804635774350&dib=eyJ2IjoiMSJ9.oGcFMUCx7z_G9T555BnK-r4tLMBW8h2oKUO2660zlVgqqCyw-9bmALAm-wr56QrVJNQIm3yHEeAQfHUm06GuGiuW4X37R1g_Lze-V3FKr6mCQIWcubjkm0GB6jS_hOfPWKsgc2HzTPbOD6Tept6IJZc1kMX-7kxVobVo8WZC5c2igxhPW7oRF4DdTInc38uQi5Sv7Ums-4s_hyfxJAy8p47pA392ZOXOKCS9Gc8C5xw.1LlpJMxSKofc3CWUsJGjCNWYPihgdhIvb02RSMKr754&dib_tag=se&hvadid=84113064179533&hvbmt=bp&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=p&hvtargid=kwd-84113841407665%3Aloc-190&hydadcr=18364_13708194&keywords=smart+water+valve+zigbee&mcid=1e4b0fd91f9636fc95ac74a9b7276fbe&msclkid=dfbe2e2d0a52149b6f87440d64acdf36&qid=1780510474&sr=8-4)
 # hvac
 # insulation
 # framing
