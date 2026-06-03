@@ -9,6 +9,8 @@
 - [bathroom fans](https://www.amazon.com/Delta-Products-Corporation-SIG80-110H-BreezSignature/dp/B01N4X2S1P/ref=sr_1_1?crid=3JE5YINRU3IIQ&dib=eyJ2IjoiMSJ9.INlbPYdgbxPQnrvFyY52sqSmjVjgjlLl53qyKlzvcGQkEkbTG2AgI8J5T379-M3M.B8lnPORTQYjMJ9tidC5PpehV5VlMmB2MiCkGGG9dslg&dib_tag=se&keywords=Delta%2BBreezSignature%2BSIG80&qid=1780507543&s=industrial&sprefix=delta%2Bbreezsignature%2Bsig80%2Caps%2C136&sr=1-1&th=1)
 - [temp & humidity sensors](https://www.amazon.com/Temperature-Humidity-Digital-Thermometer-Hygrometer/dp/B0DYDDKT4N/ref=sr_1_4?dib=eyJ2IjoiMSJ9.B9xaONs0Eev3Hkp2NOy2Jm9cYOkGFj1gj41BdFUW-oxJWZNmIYTQeGyTN-vRNNn8LRH_KkRF1WVpeGfWmpj81H8oCh4TEKNnlU6BxJ3t1qCNPY_IzBKimHu8ulR0J3oVofBAoeBL6Nfjqg85ItqEZGBiboqbEfkbHY0X9LndorPKDFwq30AwRu2-ifXUBB1hiQ8cVdJO3qZHpQRMedrTxqHzSgZm4mymzg4ZDnnXhLA.HZahD8-Gd9VLLBb2kSUO_-I4ad89jMADXlU9Dl3MpgQ&dib_tag=se&keywords=uya+Zigbee+USB+Temperature+and+Humidity+Sensor&qid=1780508461&sr=8-4)
 # plumbing
+- [leak detection](https://www.homedepot.com/p/SONOFF-Zigbee-Water-Leak-Sensor-with-Detection-Cable-for-Alarm-System-and-Smart-Home-Automation-SNZB-05P-C/700077280)
+- 
 # hvac
 # insulation
 # framing
