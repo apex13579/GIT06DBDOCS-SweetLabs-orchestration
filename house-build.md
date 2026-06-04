@@ -13,6 +13,7 @@
 - [ct clamp to monitor energy draw](https://www.amazon.com/Emporia-Vue-Home-Energy-Monitor/dp/B0C7B1LKDW/ref=sr_1_5?adgrpid=1342504315940587&dib=eyJ2IjoiMSJ9.DzaHL53EMRyvM-ip9yr17GPCDzt8JyCr81Omve9jl5zyGhbbh5blt75KrqegopLgB6Dj9ezg915F35C62JFmZgsoKgETJ6cGMM8rfqNLifs5WLR4PHG0Rv7CkAzRqZE-rLrgliEcrGzOiwm3cU_SEg1AkXSm0zP9hNieGhweT3cS21jo5D_Xkk5MmojBOXbOqPSTyGA-sCmmd_4o3e9f7UfQr_c82Wvm1XNKFYbCv2M.cM4xFsr-GlD97Yq-r9K_gdXLG-OLeYoukE1EyOwuJLY&dib_tag=se&hvadid=83906599271496&hvbmt=be&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=e&hvtargid=kwd-83907718298802%3Aloc-190&hydadcr=2621_10463622&keywords=emporia%2Bvue%2B3&mcid=e8758d9fde6836ebad97d35bf4d6f8c1&msclkid=823b6627579315d827050c062e31d3a8&qid=1780578727&sr=8-5&th=1)
 - [vibration sensor](https://www.amazon.com/THIRDREALITY-Vibration-Adjustable-Sensitivity-SmartThings/dp/B0C9DP249C/ref=sr_1_1?dib=eyJ2IjoiMSJ9.4g865AnXuDSEPdYSI1ZLwDc89o5BAFrpfGDQ2uHndeSx_Qigh7IAGYm2VBpYeGHY446uMXAfjc7WfZLD75lWUOrF5Akj0JCXjaTZd1DxhyIEFL7WrWWLIBvTmVYVYzltfAcf8n32Z_XWU3La9xvMNzD2UEdYBvCXp_X5IPCInm685lDL5D2zl4tZohW4uQBdxF7gushl3Exqfj0Dm6_Z5BtLajEBcfWpswj9FmWSDgg.UXMFk49b5RdhEMBEz0UAXUb2pGLAr64URqcLQky8ZYw&dib_tag=se&keywords=third%2Breality%2Bvibration%2Bsensor&qid=1780519032&sr=8-1&th=1)
 - [aaa battery](https://www.amazon.com/Lenink-Battery-Supply-Adapter-Replace/dp/B0873Y5MQ5/ref=sr_1_4?crid=1KF0QX3WBPFBI&dib=eyJ2IjoiMSJ9.5LFaI-u-7-u4-QbmbfYsJadET1YIuZdm0-wlJZzi38E4534tQwWGLqmeGx-zHche4M8eLExoSRpQR3fL_4eyHEF6zQmaxJSbcH1x7GkI9epsttNQEi0QPdQbGQHo2uexJ-0uqQTbrhhl8k-wNZvjKWX9w0szm6Vw8llzCNdoINvGpji6j1mar8S6D8u2XOwfkTAgN7jt3eWwXiMJ1EWh5pTk5EdqzUuNVsBAIk-tkgM.WI84jcGAGjW-AFMGCib87odqMnvzcC0S5VsZJwtTCyc&dib_tag=se&keywords=aaa+battery+adapter&qid=1780519205&sprefix=aaa+battery+adapter%2Caps%2C144&sr=8-4)
+- [window sensor](https://www.amazon.com/SONOFF-SenseGuard-SNZB-04PR2-Monitoring-SmartThings/dp/B0GKFB66JZ/ref=sr_1_4?adgrpid=1342504261637435&dib=eyJ2IjoiMSJ9.9L0lae5wnVqToV9yhe7HRkEj06ZvPIaI5jHmjqTxl1YWXJV7x1IOz9lj1NxvjOKwF97qkH62oz9aGK4OL-norpt1Bc0yI7bH6KQ2_1wrFHAtlfKg7WOE5dP9DEwz2jFuqHaJ2o1jKg5gG9cgZVjvl3tOCYLEpBoAdfKDkmx7syBm05AqeLfrs0Q5ZeHrrWRXPcq0ZlzwVIthXRqfrto09u5GAV6IzFphwNZLJbh1-zQ.HXbEWyIhUJuWAJrRoAupTpSbWXY6JqZqYo3A0o2FwfM&dib_tag=se&hvadid=83906755417416&hvbmt=be&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=e&hvtargid=kwd-83907712457465%3Aloc-190&hydadcr=25910_13486703&keywords=sonoff%2Bsnzb-04p&mcid=3bd8c6b2b853397ebfcaaf5a6a1a220b&qid=1780579300&sr=8-4&th=1)
 - 
 # plumbing
 - [leak detection](https://www.homedepot.com/p/SONOFF-Zigbee-Water-Leak-Sensor-with-Detection-Cable-for-Alarm-System-and-Smart-Home-Automation-SNZB-05P-C/700077280)
@@ -23,18 +24,22 @@
 - spray foam in attic and under the house
 - rockwool safe and sound in walls
 - double drywall with green glue
-- clips/channel
+- [clips/channel](https://acousticalsolutions.com/product/resilient-sound-isolation-clip-rsic-1-isorsc1pk50)
 # framing
 - blocking for
   - ceiling fans
   - tv mounts
   - wall mounted entertainment
+  - bathroom grab bars
 # appliances
 - [washer and dryer](https://www.mays-munroe.com/catalog/laundry-pairs?manufacturer=8815&dir=asc&order=price)
 - [hot water heater](https://www.navieninc.com/series/npn-e)
 - [range](https://www.geappliances.com/appliance/GE-Profile-30-Smart-Slide-In-Front-Control-Gas-Range-PGS930SELSS)
 - 
 # furnature
+- IKEA Starkvind
+- IKEA VINDSTYRKA
+- 
 # plan reqs
 - pot filler spout
 - 
