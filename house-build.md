@@ -49,6 +49,10 @@
 - clock outlets behind tv
 - J-box with smurf connector for wap
 - plumber runs a recirculation line back from the furthest fixture for hot water heater
+- putty pads on all j-boxes for sound isolation
+- all penetrations filled with fire foam
+- all main controls in single utility room for access to all mains
+- 
 
 
 
