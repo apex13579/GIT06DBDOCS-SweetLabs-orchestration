@@ -12,6 +12,8 @@
 - [vibration sensor](https://www.amazon.com/THIRDREALITY-Vibration-Adjustable-Sensitivity-SmartThings/dp/B0C9DP249C/ref=sr_1_1?dib=eyJ2IjoiMSJ9.4g865AnXuDSEPdYSI1ZLwDc89o5BAFrpfGDQ2uHndeSx_Qigh7IAGYm2VBpYeGHY446uMXAfjc7WfZLD75lWUOrF5Akj0JCXjaTZd1DxhyIEFL7WrWWLIBvTmVYVYzltfAcf8n32Z_XWU3La9xvMNzD2UEdYBvCXp_X5IPCInm685lDL5D2zl4tZohW4uQBdxF7gushl3Exqfj0Dm6_Z5BtLajEBcfWpswj9FmWSDgg.UXMFk49b5RdhEMBEz0UAXUb2pGLAr64URqcLQky8ZYw&dib_tag=se&keywords=third%2Breality%2Bvibration%2Bsensor&qid=1780519032&sr=8-1&th=1)
 - [aaa battery adapter for zigbee sensors](https://www.amazon.com/Lenink-Battery-Supply-Adapter-Replace/dp/B0873Y5MQ5/ref=sr_1_4?crid=1KF0QX3WBPFBI&dib=eyJ2IjoiMSJ9.5LFaI-u-7-u4-QbmbfYsJadET1YIuZdm0-wlJZzi38E4534tQwWGLqmeGx-zHche4M8eLExoSRpQR3fL_4eyHEF6zQmaxJSbcH1x7GkI9epsttNQEi0QPdQbGQHo2uexJ-0uqQTbrhhl8k-wNZvjKWX9w0szm6Vw8llzCNdoINvGpji6j1mar8S6D8u2XOwfkTAgN7jt3eWwXiMJ1EWh5pTk5EdqzUuNVsBAIk-tkgM.WI84jcGAGjW-AFMGCib87odqMnvzcC0S5VsZJwtTCyc&dib_tag=se&keywords=aaa+battery+adapter&qid=1780519205&sprefix=aaa+battery+adapter%2Caps%2C144&sr=8-4)
 - [window and door sensor](https://www.amazon.com/SONOFF-SenseGuard-SNZB-04PR2-Monitoring-SmartThings/dp/B0GKFB66JZ/ref=sr_1_4?adgrpid=1342504261637435&dib=eyJ2IjoiMSJ9.9L0lae5wnVqToV9yhe7HRkEj06ZvPIaI5jHmjqTxl1YWXJV7x1IOz9lj1NxvjOKwF97qkH62oz9aGK4OL-norpt1Bc0yI7bH6KQ2_1wrFHAtlfKg7WOE5dP9DEwz2jFuqHaJ2o1jKg5gG9cgZVjvl3tOCYLEpBoAdfKDkmx7syBm05AqeLfrs0Q5ZeHrrWRXPcq0ZlzwVIthXRqfrto09u5GAV6IzFphwNZLJbh1-zQ.HXbEWyIhUJuWAJrRoAupTpSbWXY6JqZqYo3A0o2FwfM&dib_tag=se&hvadid=83906755417416&hvbmt=be&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=e&hvtargid=kwd-83907712457465%3Aloc-190&hydadcr=25910_13486703&keywords=sonoff%2Bsnzb-04p&mcid=3bd8c6b2b853397ebfcaaf5a6a1a220b&qid=1780579300&sr=8-4&th=1)
+- [solar grid tie](https://offgridsource.com/products/eg4-flexboss21-all-in-one-hybrid-inverter-21kw-pv-input-48v-split-phase?variant=49897289613608&utm_medium=cpc&utm_source=bing&utm_campaign=Bing%20Shopping&country=US&msclkid=f933ddbe627b156155b6b79ffb5200cc)
+- [4 battery for grid tie](https://offgridsource.com/products/eg4-powerpro-wallmount-allweather-lithium-battery-48v-280ah-14-3kwh-lifepo4-all-weather-energy-storage-ul1973-ul9540a?_pos=27&_fid=169c89ad6&_ss=c)
 - 
 # plumbing
 - [leak detection](https://www.homedepot.com/p/SONOFF-Zigbee-Water-Leak-Sensor-with-Detection-Cable-for-Alarm-System-and-Smart-Home-Automation-SNZB-05P-C/700077280)
@@ -21,6 +23,8 @@
 # hvac
 - [thermostat](https://www.amazon.com/Honeywell-Home-Programmable-Customizable-Touchscreen/dp/B0GP37G6XN?psc=1&pd_rd_w=F1NRR&content-id=amzn1.sym.657ef1e8-aef1-4fea-8703-8be46e27259a&pf_rd_p=657ef1e8-aef1-4fea-8703-8be46e27259a&pf_rd_r=JBCBPK3560DMSD1ASV6H&pd_rd_wg=8dK2P&pd_rd_r=9ec2a06c-22d1-4377-a402-38c519611613&ref_=sspa_dk_detail_sbt_1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM=)
 - [geothermal](https://www.waterfurnace.com/residential/products/geothermal-heat-pumps/700a11)
+- [mini split for utility room](https://offgridsource.com/products/eg4-9k-mini-split-air-conditioner-heat-pump-9000-btu-seer2-29-5-plug-n-cool-do-it-yourself-installation?_pos=13&_fid=4a0fe0e75&_ss=c)
+- 
 # insulation
 - spray foam in attic and under the house
 - rockwool safe and sound in walls
@@ -37,6 +41,7 @@
 - [hot water heater](https://www.navieninc.com/series/npn-e)
 - [range](https://www.geappliances.com/appliance/GE-Profile-30-Smart-Slide-In-Front-Control-Gas-Range-PGS930SELSS)
 - [garage door opener](https://www.amazon.com/LiftMaster-Security-Connected-Ultra-Quiet-Performance/dp/B0G1FWWCPT/ref=sr_1_1?adgrpid=1345804646407486&dib=eyJ2IjoiMSJ9.Y5KYHAtdaEyDEbd8oecW3y43bVM8ZtVdOuET9BwDm7wu9f0cIKbCwHklMo0ZqtkZXrEVZTgRaaaBGTQr31myYafem6mFPApgdLfi9siDnezl-ufYgY-WpU7oVjrvly9VwxIcm7kTVCE-78Efjl4xDzL88w4Jnhrq3vRh8jvQMJJCizqQ6Mq2CGmhzgOCDpxjBTWhHEJmSJiaDavfAqxp8kSTtJCoILMbPEVODGAQHtU.12I1Puk-K62E-yOvvTkmsZCknXE8Er8Xa7epRsxzeaY&dib_tag=se&hvadid=84113055498526&hvbmt=be&hvdev=c&hvlocphy=74101&hvnetw=o&hvqmt=e&hvtargid=kwd-84113850255414%3Aloc-190&hydadcr=5623_13189799&keywords=liftmaster+87504-267&mcid=9c2634d9caf435769441390967b407bc&msclkid=aa634ad466591df53d4e20f5e616f0f2&qid=1780580559&sr=8-1)
+- 
 # furnature
 - IKEA Starkvind
 - IKEA VINDSTYRKA
@@ -54,6 +59,10 @@
 - all main controls in single utility room for access to all mains
 - occupancy sensors turn on the recurculating pump in the how water heater when people are detected in the various bathrooms or kitchen
 - turns the pump off after 5 minutes regardless of motion.
+- lp conversion for appliances
+- 400A meter main with generator inlet and rv outlet
+- solar to reduce electrical load
+- geothermal for hvac
 - 
 
 
