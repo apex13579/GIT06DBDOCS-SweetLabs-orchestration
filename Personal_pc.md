@@ -1,5 +1,5 @@
 # software
-## windows tiny 11 (or Windows 11 LTSC)
+## Windows 11 LTSC
 - steam
 - librewolf/brave
   ### bookmarks
