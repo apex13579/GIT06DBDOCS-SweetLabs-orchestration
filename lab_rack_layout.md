@@ -1,5 +1,5 @@
 # lab layout plan
-1. monitor
+1. [monitor](https://www.bhphotovideo.com/c/product/1709229-REG/feelworld_sc173_hd_56_17_3_1ru_pull_out.html?ap=y&smp=Y&srsltid=AfmBOoqW5Jk19oz0UYO_recIgGDaei2X5YZSpm4CJEtRBUGsAWPPPyKutHU)
 2. kvm
 3. drawer (excess cables)
 4. drawer (keyboard)
