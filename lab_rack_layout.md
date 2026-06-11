@@ -17,8 +17,8 @@
 16. -
 17. -
 18. -
-19. 
-20. blank as thermal dam
+19. 2u ai pc
+20. -
 21. ups (networking and storage)
 22. -
 23. ups (compute)
