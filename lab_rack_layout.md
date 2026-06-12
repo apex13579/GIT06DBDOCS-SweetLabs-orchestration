@@ -43,3 +43,14 @@
 [bullet cameras](https://store.ui.com/us/en/category/cameras-bullet/products/uvc-g5-bullet)
 [ptz cameras](https://store.ui.com/us/en/category/cameras-ptz/products/uvc-g5-ptz)
 [dome camera](https://store.ui.com/us/en/category/cameras-dome-turret/products/uvc-g5-dome)
+[phone](https://store.ui.com/us/en/category/managed-voip/collections/unifi-new-integrations-phone-compact/products/utp-touch)
+
+[rack upgrade](https://store.ui.com/us/en/category/accessories-rack-mount/collections/42u-rack-cabinets/products/uacc-rack-42u-800-g?variant=uacc-rack-42u-800-g)
+
+- In new rack when upgrading
+  -  double size of nas = 4/42
+  -  move ai pc to a 4u case with multiple gpu = 8/42
+  -  
+
+[media rack](https://store.ui.com/us/en/category/accessories-rack-mount/collections/12u-rack-cabinets/products/uacc-rack-12u-wall-450-g)
+
