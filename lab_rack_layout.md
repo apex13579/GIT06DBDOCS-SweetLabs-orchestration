@@ -9,15 +9,15 @@
 8. [patch panel](https://store.ui.com/us/en/category/accessories-rack-mount/products/uacc-rack-panel-patch-blank-24)
 9. [aggregation switch](https://store.ui.com/us/en/category/switching-aggregation/products/usw-pro-aggregation)
 10. [patch panel](https://store.ui.com/us/en/category/accessories-rack-mount/products/uacc-rack-panel-patch-blank-24)    
-11. [4 raspi cluster](https://www.amazon.com/UCTRONICS-Heavy-Duty-Raspberry-Rackmount-Supports/dp/B0G1BRKKZ2/ref=sr_1_8?crid=2RAI63VIDRH9J&dib=eyJ2IjoiMSJ9.3gYEa5pApTQdjmMX8a8mRRTPytNG43rpvpUVCNlHbqLAq3NRvklr41okViinnrZXAJqoEOitaSSkXyTVKBJGFws58gPdmPm003JMvm0rIsheLpWfPJYPi68VLEtiQ9VpMj_HiEUgtrf46JQfdHKqYRUvxSo2xQLV1YJ-21pT7em54UbV3NpqIH2mxaNJqKxxo5GcLKa15g-mNeZQFuYLV0seo4NtTot3L4gqPgYl91g.Wj862AgGiDMmH1Tmykh_eRqvA_Fg-FdScHSvt5e9LtM&dib_tag=se&keywords=1u+raspberry+pi+rack+mount&qid=1781204879&sprefix=1u+raspberry+pi%2Caps%2C152&sr=8-8)
+11. [ai key cluster](https://store.ui.com/us/en/category/accessories-rack-mount/products/uacc-ai-key-rm)
 12. [unas pro (4)](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
 13. [unas pro (4)](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
-14. [ai key cluster](https://store.ui.com/us/en/category/accessories-rack-mount/products/uacc-ai-key-rm)
-15. 4u vm pc
+14. 4u vm pc
+15. -
 16. -
 17. -
-18. -
-19. 2u ai pc
+18. 3u ai pc
+19. -
 20. -
 21. [ups (networking and storage)](https://store.ui.com/us/en/category/integrations-power-tech/collections/unifi-power-tech-ups/products/ups-2u-us)
 22. -
@@ -26,10 +26,17 @@
 
 
 [sub switch](https://store.ui.com/us/en/category/switching-utility/products/usw-flex-2-5g-8)
-[poe switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-xg-24-poe)
+2x [poe switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-xg-24-poe)
 [wap](https://store.ui.com/us/en/category/wifi-flagship/products/u7-pro-xg?variant=u7-pro-xg-us)
 [failover wan](https://store.ui.com/us/en/category/internet-solutions/products/u5g-us)
 [sfp+ modules fiber](https://store.ui.com/us/en/category/accessories-modules-fiber/collections/accessories-pro-multi-mode-optical-fiber/products/10-gbps-multi-mode-optical-module?variant=uacc-om-mm-10g-d)
 [sfp+ module rj45](https://store.ui.com/us/en/category/accessories-modules-fiber/collections/accessories-pro-direct-attach-cables/products/uacc-cm-rj45-mg?variant=uacc-cm-rj45-mg)
 [rack mount kit](https://store.ui.com/us/en/category/accessories-rack-mount/products/uacc-rack-pm-kit)
 [keystone coupler](https://www.amazon.com/fyboptwu-Optical-Coupler-Multimode-Connectors/dp/B0BQ249VYT/ref=sr_1_1_sspa?crid=2H9HV9I4ZLGV4&dib=eyJ2IjoiMSJ9.Tcs3euqowRejRET_LchNcoSLQg_3vZihkROrqvd5QMWxLMKesJ59GB8OaGg4ZvQ3GtWv_yXqt_mnPGMjBLaxphL60hZrevrGgk9SYTPQhDz5us5Dtlzh1LZKQO9LKYMMhZ35Pa1ZT0395SqXEtj4EFt1z2FwhP2Ucas8RFew8LnfMTWS9eb3yWtFND-EoCWxD9LeLCXBUJMsdvfPyDNieLleSDNIJkPgMxBJpnpFS88.bQlmHovikXRLhbgg3vxkil4ak0poGKUOyBLlXPOCC-o&dib_tag=se&keywords=lc%2Bto%2Blc%2Bcoupler%2Bkeystone&qid=1781293037&sprefix=lc%2Bto%2Blc%2Bcoupler%2Bkeystone%2Caps%2C123&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+[travel router](https://store.ui.com/us/en/category/wifi-special-devices/products/utr)
+[nvr](https://store.ui.com/us/en/category/cameras-nvr/collections/unvr-instant/products/unvr-instant?variant=unvr-instant-us)
+[doorbell chime](https://store.ui.com/us/en/category/cameras-doorbells/collections/pro-store-doorbells-chimes/products/uacc-chime-poe?variant=uacc-chime-poe)
+[doorbell](https://store.ui.com/us/en/category/cameras-doorbells/collections/pro-store-doorbells-chimes/products/uvc-g4-doorbell-pro-poe-kit?variant=uvc-g4-doorbell-pro-poe-kit)
+[superlink gateway](https://store.ui.com/us/en/category/cameras-superlink-sensors/collections/superlink-gateway/products/usl-gateway?variant=usl-gateway-us)
+[zigbee antenna](https://www.amazon.com/SMLIGHT-SLZB-06M-Ethernet-Zigbee2MQTT-Assistant/dp/B0CLCGV1RZ/ref=sr_1_9?crid=PJRU88V8TASL&dib=eyJ2IjoiMSJ9.MGAH_V8Lm634d8E5zQWYOCThDai2RHkBZeU7ptOyDkB2Ki6F5y7dx-C13_Qr7prbBE0CeGE6dpp7f6BCSa1XQiUB1-sSIwUS0w_W3wZ5JY1Bn3mnYSFa2QhlpYuodcl-18NarB2qTzbFTTkJd5sY0ZQ2DMUqW-SlEFqgbfYTGzoTFimF88XFK4zqNVrHuqNSQY6SsAUrQkh3YVKRDZuTbTUIxXwLLW8lpDoxslh2UAE.W6lpl2qxrFtyVxmEbMU1AictG4NGQbi5jQci-Jy-LX0&dib_tag=se&keywords=zigbee%2Bantenna&qid=1781294037&sprefix=zigbee%2Bantenna%2Caps%2C138&sr=8-9&th=1)
+[air quality sensor](https://store.ui.com/us/en/category/cameras-superlink-sensors/products/up-airquality)
