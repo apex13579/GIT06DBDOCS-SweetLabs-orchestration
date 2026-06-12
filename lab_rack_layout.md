@@ -27,3 +27,5 @@
 
 [sub switch](https://store.ui.com/us/en/category/switching-utility/products/usw-flex-2-5g-8)
 [poe switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-xg-24-poe)
+[wap](https://store.ui.com/us/en/category/wifi-flagship/products/u7-pro-xg?variant=u7-pro-xg-us)
+
