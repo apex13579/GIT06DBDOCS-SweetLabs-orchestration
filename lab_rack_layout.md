@@ -9,23 +9,23 @@
 8. [patch panel](https://www.amazon.com/Monoprice-Keystone-Jack-Panel-ports/dp/B005E2YCNA/ref=sr_1_1?crid=IV31VGIFXMQ&dib=eyJ2IjoiMSJ9.dazJGiiCvviBzk6n2pi9iJ0mM6cAT7cUwajZIU9dRoPy0pJ5IoQ-uaUz0MfJqOwzK8JvQTIchslv6q2GSOLZt08ta3Fmw7jaSj72eNJwXwGz7noQMxrtV0J7nOr9AiM8ngpie-QFpvr6cK926onCo8ANy4VL0KenswecGaFtq4ac346SdqWiiEvE9_CaFkiLcrzVTY-DdGBpd5z4i2Qga4_fI2FDQeedIQfSCbozf60.mWSJg5Z5tfFVXHTxGyeai81Lvfnu3FDLCk4ITRcZNdE&dib_tag=se&keywords=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel&qid=1781537101&sprefix=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel%2Caps%2C133&sr=8-1&th=1)
 9. [aggregation switch](https://www.amazon.com/MikroTik-CRS326-24S-2Q-RM/dp/B07WPBS93K/ref=sr_1_1?crid=1ETKMXP19IWKC&dib=eyJ2IjoiMSJ9.Ao7IjlRYIR9-uqDYWBGc1gCfSOS6ParQJ5IzkNroJUA5TY8QxL0Y-dWhG7ih1Qrgi4VqZX7hJ_xebb4ZmXE_XjLCFFpeIBfyKzEc3_n4eHTsRHo03Qmblnx2gDYYiwtKOtEWb9MdNK2dGi9yefaQdCNFdn4LjNjs_h_yMrOydY-BZC_zF2k4XxnfYAKz_OCR6E5W4psZSt-20ufIVFlqeHTi8esBDdsWGVsOlM-itEk.VEWNEPCb4iJd9_n38jVw9tlhhSbhyxKDPnWDiTf29-4&dib_tag=se&keywords=MikroTik+CRS326-24S%2B2Q%2BRM&qid=1781537684&sprefix=mikrotik+crs326-24s%2B2q%2Brm%2Caps%2C114&sr=8-1)
 10. [patch panel](https://www.amazon.com/Monoprice-Keystone-Jack-Panel-ports/dp/B005E2YCNA/ref=sr_1_1?crid=IV31VGIFXMQ&dib=eyJ2IjoiMSJ9.dazJGiiCvviBzk6n2pi9iJ0mM6cAT7cUwajZIU9dRoPy0pJ5IoQ-uaUz0MfJqOwzK8JvQTIchslv6q2GSOLZt08ta3Fmw7jaSj72eNJwXwGz7noQMxrtV0J7nOr9AiM8ngpie-QFpvr6cK926onCo8ANy4VL0KenswecGaFtq4ac346SdqWiiEvE9_CaFkiLcrzVTY-DdGBpd5z4i2Qga4_fI2FDQeedIQfSCbozf60.mWSJg5Z5tfFVXHTxGyeai81Lvfnu3FDLCk4ITRcZNdE&dib_tag=se&keywords=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel&qid=1781537101&sprefix=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel%2Caps%2C133&sr=8-1&th=1)    
-11. [drawer (tools)](https://www.amazon.com/Ktaxon-Locking-Durable-Material-Application/dp/B0CP7GRCWH/ref=sr_1_3?crid=3R5JELSPWMWSK&dib=eyJ2IjoiMSJ9.E2j1_8GTj1ZwEX-lnbeProKO1RFpBm5FLAe8Cv9eUgIWlWTBrgieIShdxBquD2xrYvIIPE02xycEdsV9TsXy0la-aVJ1LcZcgZxABhA6dAC93jo72oRSNYbGPi-P8hINiLoIuSdHaP6rPEpmkka_XO_6Fb6-F5PbYxol7qXHpXIRhjtkNRCF7kSzumNNhv4TXxv7VWGsDIRJtIys1Sag_dn1rYGP03vINWMBazkYSzX-xwbGjCwpWq-FDEW443jMXNJNO7otgrs2rnA9TyckvKET3dl5HkdXQunDp-LP8No.4xfJwmq45g3-xjpp0E_dd9K-e6fDWuDh3bttblTKZAM&dib_tag=se&keywords=Ktaxon%2B1U%2BRack%2BMount%2BLocking%2BDrawer&qid=1781528752&s=electronics&sprefix=ktaxon%2B1u%2Brack%2Bmount%2Blocking%2Bdrawer%2Caps%2C130&sr=1-3-catcorr&th=1)
-12. unas
-13. nas
-14. 4u vm pc
+11. nas
+12. nas
+13. 4u vm pc
+14. -
 15. -
 16. -
-17. -
-18. 3u ai pc
+17. 4u ai pc
+18. -
 19. -
 20. -
-21. [ups (networking and storage)](https://store.ui.com/us/en/category/integrations-power-tech/collections/unifi-power-tech-ups/products/ups-2u-us)
+21. [ups (networking and storage)]([https://store.ui.com/us/en/category/integrations-power-tech/collections/unifi-power-tech-ups/products/ups-2u-us](https://www.amazon.com/Tripp-Lite-Battery-Rack-Mount-SMART1500LCD/dp/B000DZRY9C/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.YBwy5m0j7dExorQewWFbCrPh1vwp9oEgEKdurBVIU_T2oVs4CBXWyCIT19owYocCuOVEX_88FWqXCX_AwtmOqEt07fnjON_NjgIQH_LY6OJZus9kUJ_ZQGZJUx9VDh0gF3KY7x6lPppXD9_sFbtHKHB2JNE1rUM_TLybVBSKSjSUFcPNctkfO7wexDvPlmYUI46Tk-bY-ioLtTAVyPFU_WknEM_Gx4fgBU0TSzmnTDg.ywJ-pqxi8wtzAO-h7zF1QY9FHcwejzgwbxpJMOZ2MR8&dib_tag=se&keywords=rack%2Bmounted%2Bups&qid=1781541115&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1))
 22. -
-23. [ups (compute)](https://store.ui.com/us/en/category/integrations-power-tech/collections/unifi-power-tech-ups/products/ups-2u-us)
+23. ups (compute)
 24. -
 
 
-[sub switch](https://store.ui.com/us/en/category/switching-utility/products/usw-flex-2-5g-8)
+[sub switch]([https://store.ui.com/us/en/category/switching-utility/products/usw-flex-2-5g-8](https://www.amazon.com/MikroTik-CSS610-8G-2S-in/dp/B08MBZYYKB/ref=sr_1_1_mod_primary_new?crid=2PL22VW4WF0TL&dib=eyJ2IjoiMSJ9.VsVK09kjNWPiFVwNaPEiwnBtxNwi3H8u6luJTPsQ9YWNdtzhqLM_e-z5GRnDMizXbba77MBfXbZCeZUauAUjK_QUVAZxH3FFVy0VE2pcwekROuTSzmgNp6nvs4KmVuGwLw2hvkR122if1qUjUzqGNlzvC3FY2Lnhh4vVOUDuNPQ_QFgqIStM1bgZksrl7wm_7oTwYhpf8sI4IoYe5ZXQO5ywo6cyTpK9f7u3A4WrtCc.BVoZCUQw-RPKHSTOJgTI2na-2OY1Pty0agbQs7pu3nM&dib_tag=se&keywords=MikroTik+CSS610-8G-2S%2BIN&qid=1781541661&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=mikrotik+css610-8g-2s%2Bin%2Caps%2C275&sr=8-1))
 2x [poe switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-xg-24-poe)
 [wap](https://store.ui.com/us/en/category/wifi-flagship/products/u7-pro-xg?variant=u7-pro-xg-us)
 [failover wan](https://store.ui.com/us/en/category/internet-solutions/products/u5g-us)
