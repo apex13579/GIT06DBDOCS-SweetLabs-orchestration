@@ -10,8 +10,8 @@
 9. [aggregation switch](https://www.amazon.com/MikroTik-CRS326-24S-2Q-RM/dp/B07WPBS93K/ref=sr_1_1?crid=1ETKMXP19IWKC&dib=eyJ2IjoiMSJ9.Ao7IjlRYIR9-uqDYWBGc1gCfSOS6ParQJ5IzkNroJUA5TY8QxL0Y-dWhG7ih1Qrgi4VqZX7hJ_xebb4ZmXE_XjLCFFpeIBfyKzEc3_n4eHTsRHo03Qmblnx2gDYYiwtKOtEWb9MdNK2dGi9yefaQdCNFdn4LjNjs_h_yMrOydY-BZC_zF2k4XxnfYAKz_OCR6E5W4psZSt-20ufIVFlqeHTi8esBDdsWGVsOlM-itEk.VEWNEPCb4iJd9_n38jVw9tlhhSbhyxKDPnWDiTf29-4&dib_tag=se&keywords=MikroTik+CRS326-24S%2B2Q%2BRM&qid=1781537684&sprefix=mikrotik+crs326-24s%2B2q%2Brm%2Caps%2C114&sr=8-1)
 10. [patch panel](https://www.amazon.com/Monoprice-Keystone-Jack-Panel-ports/dp/B005E2YCNA/ref=sr_1_1?crid=IV31VGIFXMQ&dib=eyJ2IjoiMSJ9.dazJGiiCvviBzk6n2pi9iJ0mM6cAT7cUwajZIU9dRoPy0pJ5IoQ-uaUz0MfJqOwzK8JvQTIchslv6q2GSOLZt08ta3Fmw7jaSj72eNJwXwGz7noQMxrtV0J7nOr9AiM8ngpie-QFpvr6cK926onCo8ANy4VL0KenswecGaFtq4ac346SdqWiiEvE9_CaFkiLcrzVTY-DdGBpd5z4i2Qga4_fI2FDQeedIQfSCbozf60.mWSJg5Z5tfFVXHTxGyeai81Lvfnu3FDLCk4ITRcZNdE&dib_tag=se&keywords=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel&qid=1781537101&sprefix=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel%2Caps%2C133&sr=8-1&th=1)    
 11. [drawer (tools)](https://www.amazon.com/Ktaxon-Locking-Durable-Material-Application/dp/B0CP7GRCWH/ref=sr_1_3?crid=3R5JELSPWMWSK&dib=eyJ2IjoiMSJ9.E2j1_8GTj1ZwEX-lnbeProKO1RFpBm5FLAe8Cv9eUgIWlWTBrgieIShdxBquD2xrYvIIPE02xycEdsV9TsXy0la-aVJ1LcZcgZxABhA6dAC93jo72oRSNYbGPi-P8hINiLoIuSdHaP6rPEpmkka_XO_6Fb6-F5PbYxol7qXHpXIRhjtkNRCF7kSzumNNhv4TXxv7VWGsDIRJtIys1Sag_dn1rYGP03vINWMBazkYSzX-xwbGjCwpWq-FDEW443jMXNJNO7otgrs2rnA9TyckvKET3dl5HkdXQunDp-LP8No.4xfJwmq45g3-xjpp0E_dd9K-e6fDWuDh3bttblTKZAM&dib_tag=se&keywords=Ktaxon%2B1U%2BRack%2BMount%2BLocking%2BDrawer&qid=1781528752&s=electronics&sprefix=ktaxon%2B1u%2Brack%2Bmount%2Blocking%2Bdrawer%2Caps%2C130&sr=1-3-catcorr&th=1)
-12. [unas pro (4)](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
-13. [unas pro (4)](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
+12. unas
+13. nas
 14. 4u vm pc
 15. -
 16. -
