@@ -40,20 +40,3 @@
 [ptz cameras](https://store.ui.com/us/en/category/cameras-ptz/products/uvc-g5-ptz)
 [dome camera](https://store.ui.com/us/en/category/cameras-dome-turret/products/uvc-g5-dome)
 [tablet](https://store.ui.com/us/en/category/managed-voip/collections/unifi-new-integrations-phone-compact/products/utp-touch)
-
-[rack upgrade](https://store.ui.com/us/en/category/accessories-rack-mount/collections/42u-rack-cabinets/products/uacc-rack-42u-800-g?variant=uacc-rack-42u-800-g)
-
-- In new rack when upgrading
-  -  double size of nas = 26/42
-  -  move ai pc to a 4u case with multiple gpu = 27/42
-  -  make 2 more 4u vm pc for high availability = 35/42
-  -  move the poe switches into the rack = 37/42
-  -  three additional patch panels = 40/42
-  -  additional 2u nas = 42/42
-
-[media rack](https://store.ui.com/us/en/category/accessories-rack-mount/collections/12u-rack-cabinets/products/uacc-rack-12u-wall-450-g)
-
-- ps 2/12
-- xbox 4/12
-- 
-
