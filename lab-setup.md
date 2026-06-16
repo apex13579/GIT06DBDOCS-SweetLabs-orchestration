@@ -1,0 +1,6 @@
+- [ ] spin down old vm
+- [ ] delete old vm
+- [ ] inniatiate lxc first
+- [ ] inniatiate vm one at a time to completion
+- [ ] assign vlans as dictated
+- [ ] 
