@@ -11,10 +11,10 @@
 10.     
 11. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
 12. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
-13. 4u vm pc
+13. [vm pc](https://www.amazon.com/HP-Mini-800-G9-i9-12900T/dp/B0BSGLPD9P)
 14. -
-15. -
-16. -
+15. 
+16.
 17. 2u [ai pc](https://www.bee-link.com/products/beelink-gti15-ultra-intel-core-ultra-9-285h-openclaw-local-llm-pre-installed?variant=48946274697458) [nvr](https://store.ui.com/us/en/category/physical-security-nvr/collections/unvr-instant/products/unvr-instant)
 18. -
 19. 
