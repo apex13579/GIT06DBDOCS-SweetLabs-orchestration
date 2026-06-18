@@ -2,16 +2,15 @@
 1. [monitor](https://www.amazon.com/gp/aw/d/B0BG72RBPX/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=d98c21a42d39d671a48d8ef1126ea2ca&hsa_cr_id=0&qid=1781716115&sr=1-1-bb1dd90d-43d9-4889-9fa3-06ff69afcca4&ref_=sbx__sbtcd2_asin_0_title&pd_rd_w=YHVFi&content-id=amzn1.sym.426cce2b-1a46-4f73-98d0-97ab3ad4ed98%3Aamzn1.sym.426cce2b-1a46-4f73-98d0-97ab3ad4ed98&pf_rd_p=426cce2b-1a46-4f73-98d0-97ab3ad4ed98&pf_rd_r=D6A60TCTBHJ7R289FGRT&pd_rd_wg=6ZnbQ&pd_rd_r=bee6c7a8-b051-4c96-a22b-b4d537b41ea6&th=1)
 2. [drawer (excess cables)](https://www.amazon.com/Ktaxon-Locking-Durable-Material-Application/dp/B0CP7GRCWH/ref=sr_1_3?crid=3R5JELSPWMWSK&dib=eyJ2IjoiMSJ9.E2j1_8GTj1ZwEX-lnbeProKO1RFpBm5FLAe8Cv9eUgIWlWTBrgieIShdxBquD2xrYvIIPE02xycEdsV9TsXy0la-aVJ1LcZcgZxABhA6dAC93jo72oRSNYbGPi-P8hINiLoIuSdHaP6rPEpmkka_XO_6Fb6-F5PbYxol7qXHpXIRhjtkNRCF7kSzumNNhv4TXxv7VWGsDIRJtIys1Sag_dn1rYGP03vINWMBazkYSzX-xwbGjCwpWq-FDEW443jMXNJNO7otgrs2rnA9TyckvKET3dl5HkdXQunDp-LP8No.4xfJwmq45g3-xjpp0E_dd9K-e6fDWuDh3bttblTKZAM&dib_tag=se&keywords=Ktaxon%2B1U%2BRack%2BMount%2BLocking%2BDrawer&qid=1781528752&s=electronics&sprefix=ktaxon%2B1u%2Brack%2Bmount%2Blocking%2Bdrawer%2Caps%2C130&sr=1-3-catcorr&th=1)
 3. [drawer (keyboard)](https://www.amazon.com/Ktaxon-Locking-Durable-Material-Application/dp/B0CP7GRCWH/ref=sr_1_3?crid=3R5JELSPWMWSK&dib=eyJ2IjoiMSJ9.E2j1_8GTj1ZwEX-lnbeProKO1RFpBm5FLAe8Cv9eUgIWlWTBrgieIShdxBquD2xrYvIIPE02xycEdsV9TsXy0la-aVJ1LcZcgZxABhA6dAC93jo72oRSNYbGPi-P8hINiLoIuSdHaP6rPEpmkka_XO_6Fb6-F5PbYxol7qXHpXIRhjtkNRCF7kSzumNNhv4TXxv7VWGsDIRJtIys1Sag_dn1rYGP03vINWMBazkYSzX-xwbGjCwpWq-FDEW443jMXNJNO7otgrs2rnA9TyckvKET3dl5HkdXQunDp-LP8No.4xfJwmq45g3-xjpp0E_dd9K-e6fDWuDh3bttblTKZAM&dib_tag=se&keywords=Ktaxon%2B1U%2BRack%2BMount%2BLocking%2BDrawer&qid=1781528752&s=electronics&sprefix=ktaxon%2B1u%2Brack%2Bmount%2Blocking%2Bdrawer%2Caps%2C130&sr=1-3-catcorr&th=1)
-4.
-5.
+11. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
+12. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
 6. [modem](https://www.amazon.com/ARRIS-SURFboard-Approved-SB8200-Frustration/dp/B07DY16W2Z/ref=sr_1_1?crid=145CT6EA05ILA&dib=eyJ2IjoiMSJ9.-GRyifJmwzofu7GGMNBk-xzXWcpUg_Rr5xIxXLU2Bgo3NPHwo0sj_QGjCGD9Mr8sXNZczqUoGIS6OCsOq35WQopqrXJDg5CNdDZQ8_5dVwYlD_FfdWiIbqDScerbcWcqMWk0gxKofJWgS1iSiHGifW2ihUaQbSJCJ0VmCxNIeavg31ZA5rQUhHAjyBuKaZK9HVW3oLPo5syvMvJQOEakz8uLdXzlJSWiGfUHu1VN1LE.hF47knJl9-G-E65bQeL4Pa8TXk8lrrYAu_D39yIPinI&dib_tag=se&keywords=ARRIS%2BSURFboard%2BSB8200&qid=1781530009&sprefix=arris%2Bsurfboard%2Bsb8200%2Caps%2C125&sr=8-1&th=1)
 7. [gateway](https://store.ui.com/us/en/category/cloud-gateways-compact/collections/cloud-gateway-max)
 8. [patch panel](https://www.amazon.com/Monoprice-Keystone-Jack-Panel-ports/dp/B005E2YCNA/ref=sr_1_1?crid=IV31VGIFXMQ&dib=eyJ2IjoiMSJ9.dazJGiiCvviBzk6n2pi9iJ0mM6cAT7cUwajZIU9dRoPy0pJ5IoQ-uaUz0MfJqOwzK8JvQTIchslv6q2GSOLZt08ta3Fmw7jaSj72eNJwXwGz7noQMxrtV0J7nOr9AiM8ngpie-QFpvr6cK926onCo8ANy4VL0KenswecGaFtq4ac346SdqWiiEvE9_CaFkiLcrzVTY-DdGBpd5z4i2Qga4_fI2FDQeedIQfSCbozf60.mWSJg5Z5tfFVXHTxGyeai81Lvfnu3FDLCk4ITRcZNdE&dib_tag=se&keywords=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel&qid=1781537101&sprefix=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel%2Caps%2C133&sr=8-1&th=1)
 9. [aggregation switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-16)
-10.     
-11. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
-12. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
-13. [vm pc](https://www.amazon.com/HP-Mini-800-G9-i9-12900T/dp/B0BSGLPD9P)
+13. [vm pc](https://www.amazon.com/HP-Mini-800-G9-i9-12900T/dp/B0BSGLPD9P)  
+
+
 14. -
 15. 
 16.
