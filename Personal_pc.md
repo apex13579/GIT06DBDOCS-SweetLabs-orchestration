@@ -17,3 +17,7 @@
 - logitech software
 - elgato software
 - prusa slicer
+- chiaki
+- greenlight
+- moonlight
+- 
