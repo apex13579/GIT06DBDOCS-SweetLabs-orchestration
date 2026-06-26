@@ -13,7 +13,7 @@
 12. [patch panel](https://www.amazon.com/Monoprice-Keystone-Jack-Panel-ports/dp/B005E2YCNA/ref=sr_1_1?crid=IV31VGIFXMQ&dib=eyJ2IjoiMSJ9.dazJGiiCvviBzk6n2pi9iJ0mM6cAT7cUwajZIU9dRoPy0pJ5IoQ-uaUz0MfJqOwzK8JvQTIchslv6q2GSOLZt08ta3Fmw7jaSj72eNJwXwGz7noQMxrtV0J7nOr9AiM8ngpie-QFpvr6cK926onCo8ANy4VL0KenswecGaFtq4ac346SdqWiiEvE9_CaFkiLcrzVTY-DdGBpd5z4i2Qga4_fI2FDQeedIQfSCbozf60.mWSJg5Z5tfFVXHTxGyeai81Lvfnu3FDLCk4ITRcZNdE&dib_tag=se&keywords=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel&qid=1781537101&sprefix=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel%2Caps%2C133&sr=8-1&th=1)
 13. [aggregation switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-16)
 14. blank
-15. [vm pc](https://www.amazon.com/HP-Mini-800-G9-i9-12900T/dp/B0BSGLPD9P)
+15. [vm pc](https://www.ebay.com/itm/158009942708?_skw=ThinkStation+P3+Tiny&itmmeta=01KW27CNBK7EDKAQXVQVGD8MTH&hash=item24ca2062b4:g:a6gAAeSwTVFqPSvh&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAmYC1mj713m95fbg4YMYP69SL4OEZ6ces60vBApbTBrLR6Nk8UxS%2BWT9OiU71AXFPErCF7XLDwee4nwckTfcdObAgGQ4xJ8ghAOTbs38jhUJLfTZDETlmvoLdqU23dpioek8gPTW3b2hJDV9Y%2BkppwsX5nkzLQCPyq8tOXaAuqSZ3qX2snKEPwSakmc1F6lmjMcSVOQ8zIg0E%2FqR%2BXA%2BTSHRGvhjV0FUnlxTrnH6LrcdhkHJKNbOhUAfOaxaLyuVA%3D%7Ctkp%3ABk9SR4LWssfgZw)
 16. blank
 17. [ai pc](https://www.bee-link.com/products/beelink-gti15-ultra-intel-core-ultra-9-285h-openclaw-local-llm-pre-installed?variant=48946274697458) [nvr](https://store.ui.com/us/en/category/physical-security-nvr/collections/unvr-instant/products/unvr-instant)
 18. continued
