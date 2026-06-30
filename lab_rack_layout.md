@@ -27,7 +27,9 @@
 
 [sub switch](https://store.ui.com/us/en/category/switching-utility/products/usw-flex-mini)
 [poe switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-16-poe)
+
 ~~[wap](https://store.ui.com/us/en/category/wifi-flagship/products/u7-lite)~~
+
 [failover wan](https://store.ui.com/us/en/category/internet-solutions/products/u5g-us)
 [sfp modules](https://www.amazon.com/10GBase-SR-Transceiver-Multi-Mode-Compatible-MA-SFP-10GB-SR/dp/B09X9RZWX9/ref=sr_1_9?crid=3ERLKAEKAY6AJ&dib=eyJ2IjoiMSJ9.Gh5nFSQIhPn3fe7KxNB_xChoVNyYJvNsXTRUMDWUbIvrFol8x4RHwC5_5yqBiTnD-fEdVRI4ThrQuVopA6fa8rNKs5fAc125ln_J5pyQNeosQd-EzQtcgQD_jo38T-aDo7t-SEqaW9wGkmIFjjmzVvRh6knSyqnUDgCGyprebYIzib0gcrWPeYF5lDg6PWgf6eCNoSjwcdZ2mTNZ2Pid_QDjSpY9KMBb-mGmetSONhw.0GL-xNWDOrWNuogxbePmixrO3FB3rKAVZKr6VobiNOE&dib_tag=se&keywords=10GBASE-SR&qid=1781632557&sprefix=10gbase-sr%2Caps%2C179&sr=8-9&th=1)
 [fiber](https://www.amazon.com/FLYPROFiber-1M-6Pack-Multimode-Jumper-Duplex/dp/B0F9F8SHGF/ref=sr_1_4?crid=2ZCVQRTI0DUAT&dib=eyJ2IjoiMSJ9.Gfj0TCW3wkNL4dP4V-13HmuCfdXfrI4pRXFiQ4nWKQGuHF7bysZCJCY7mKdocgBLa-2kXlStpvQMjebC93rXKHoNq3Wy0fO-i_2NfsGt6V7FNFbjIvFlnLjOK3XyyHIrPJtTnd7PjU0xy-bsgz_Ow2JRPecocGHEvNj9AJ9FzcxDp2V55fNzc9ma_IEcaewYAxg0E0TGd3Gl1BboHKUri2JwwmMUI71OJCoxSujEojk.bolf6Y6vuilQ0UEtcGBby-a7PZ1YKY5oKZFGribs-Uc&dib_tag=se&keywords=om3%2Bfiber%2Blc%2Bto%2Blc&qid=1781632716&sprefix=om3%2B%2Caps%2C158&sr=8-4&th=1)
