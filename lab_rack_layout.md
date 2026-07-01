@@ -21,9 +21,8 @@
 20. blank        
 21. [ups (networking and storage)](https://www.amazon.com/dp/B0B354X985?ref=cm_sw_r_cso_cp_apin_dp_AGGXYDFEVRRJ5H6B0EQF&rsd=tYG%2BFCGMLFlK2tlxtK4VU3Mwvy429oF6rCXi6IqQLQmjytk4Z9R4iLRVdoxfr3F6AefA8l2lgo3b39b%2FI4wwUrtEiulIyjdpLNKG0fNK04IWQU8Z4xdY0y4%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQELGQFCY0PimuM43YV2r7BEAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMPRrWdb4cAkvVCA1UAgEQgDuJBcuWdSX%2FBKxRpooAa0tdzHBgVJzVu0FdlvkALLbDW%2BmuakrH9qCFxkN2dDBJ76tMTlTqqL2C3odH0w%3D%3D&th=1) [and](https://www.amazon.com/dp/B093TXQX2V?ref=cm_sw_r_cso_cp_apin_dp_B1R2Y065ZMKT0NRP8KHM&rsd=HU6DgvVQRKJ0dLQCV5kPwLSXqtyNo4Z8JytReFctw%2Bqcg0mVaCiU%2FGvGkPUfHekCmYIMl5UlBB%2FQfI7Qea8JeX%2Fnx7kRcdRsgqWsU6%2Fc81BpC454&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQHbZb55OJ9zufG55SJQ44sxAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMnbRfZIuy0F9%2FazexAgEQgDuWE7RcOkcUQkBhkxfetvgzNwpH7SE8BL3h0O3UNE8cDgrnVg10J0O1iCc%2BDZzMGVCR6VqjLePmR0w8Ag%3D%3D&th=1)
 22. continued
-
-~~23. ups (compute)~~
-~~24. continued~~
+23. ~~ups (compute)~~
+24. ~~continued~~
 
 
 [sub switch](https://store.ui.com/us/en/category/switching-utility/products/usw-flex-mini)
