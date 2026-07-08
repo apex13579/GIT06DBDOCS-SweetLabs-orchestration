@@ -1,0 +1,14 @@
+# hardware companies
+- Patriot memory
+- framework computing
+- unifi networking
+- elgato streaming equipment
+- logitech touch points
+- LG monitors
+- my electronics
+- ryobi tools
+- LTT tools
+- Be Quiet fans
+- gamesir controllers
+- sonos audio
+- Honeywell ptm thermal phase change pads
