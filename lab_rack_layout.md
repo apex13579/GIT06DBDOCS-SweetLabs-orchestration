@@ -7,7 +7,7 @@
 6. blank
 7. [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-4)
 8. blank
-9. [modem](https://www.amazon.com/ARRIS-SURFboard-Approved-SB8200-Frustration/dp/B07DY16W2Z/ref=sr_1_1?crid=145CT6EA05ILA&dib=eyJ2IjoiMSJ9.-GRyifJmwzofu7GGMNBk-xzXWcpUg_Rr5xIxXLU2Bgo3NPHwo0sj_QGjCGD9Mr8sXNZczqUoGIS6OCsOq35WQopqrXJDg5CNdDZQ8_5dVwYlD_FfdWiIbqDScerbcWcqMWk0gxKofJWgS1iSiHGifW2ihUaQbSJCJ0VmCxNIeavg31ZA5rQUhHAjyBuKaZK9HVW3oLPo5syvMvJQOEakz8uLdXzlJSWiGfUHu1VN1LE.hF47knJl9-G-E65bQeL4Pa8TXk8lrrYAu_D39yIPinI&dib_tag=se&keywords=ARRIS%2BSURFboard%2BSB8200&qid=1781530009&sprefix=arris%2Bsurfboard%2Bsb8200%2Caps%2C125&sr=8-1&th=1)
+9. 
 10. [gateway](https://store.ui.com/us/en/category/cloud-gateways-compact/collections/cloud-gateway-max)
 11. blank
 12. ~~[patch panel](https://www.amazon.com/Monoprice-Keystone-Jack-Panel-ports/dp/B005E2YCNA/ref=sr_1_1?crid=IV31VGIFXMQ&dib=eyJ2IjoiMSJ9.dazJGiiCvviBzk6n2pi9iJ0mM6cAT7cUwajZIU9dRoPy0pJ5IoQ-uaUz0MfJqOwzK8JvQTIchslv6q2GSOLZt08ta3Fmw7jaSj72eNJwXwGz7noQMxrtV0J7nOr9AiM8ngpie-QFpvr6cK926onCo8ANy4VL0KenswecGaFtq4ac346SdqWiiEvE9_CaFkiLcrzVTY-DdGBpd5z4i2Qga4_fI2FDQeedIQfSCbozf60.mWSJg5Z5tfFVXHTxGyeai81Lvfnu3FDLCk4ITRcZNdE&dib_tag=se&keywords=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel&qid=1781537101&sprefix=monoprice%2Bkeystone%2Bjack%2Bpatch%2Bpanel%2Caps%2C133&sr=8-1&th=1)~~
@@ -48,31 +48,6 @@
 
 
 
-Mpuntings
+wall
 
-1. self
-2. self
-3. self
-4. self
-5. self
-6. self
-7. [modem mount](https://www.etsy.com/listing/1885858345/surfboard-sb8200-sb6190-sb6141-cable?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=harris+surfboard+sb8200+mount&ref=sc_gallery-1-1&sr_prefetch=1&pf_from=search&sts=1&plkey=EugBdup1IZl1O146NVpESj_-S2c5%3ALT831dc35dd47443739344aa845094a295925caec8)
-8. [gateway mount](https://www.amazon.com/Ubiquiti-UCG-Ultra-Maintenance-Keystones-Professional/dp/B0GYD35HF5/ref=sr_1_1?crid=2IO5Y4RJ8Q74W&dib=eyJ2IjoiMSJ9.XLrFg3U692pocDE6jp90evVq3GlFWnKqs_ISGXyoKJ_mH9KyruVsFu5jchE0_0XPOBXaR65RfOuTNiuA6IXTwnWgniLPDQItnpDMGBTJTUYUq6NSyitnJpzXcrgKBSJOqmse0QUekdMKdgC-sw7-WZK4nz8WruVkjZt36EXkrg_wfAVWFQHhDLd7-lFX_q7h98_VQM2sjXIwMPVYqYO65FQVq0s6oI5GY65Pet_pmRg.2RxMF9bDhSFzYoSyUmCksuYLq3Ert-jBBsj6PHW5jTs&dib_tag=se&keywords=1u+gateway&qid=1781811891&sprefix=1u+gateway%2Caps%2C148&sr=8-1)
-9. self
-10. self
-11. [vm pc mount](https://www.etsy.com/listing/4438556009/1u-19-inch-rack-mount-bracket-for-hp?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=hp+elite+desk+800+g9&ref=sr_gallery-1-3&sr_prefetch=1&pf_from=search&sts=1&content_source=ec4a90c0-a74e-40b9-8ade-91990a1d2b03%253ALTff63dd1ecfcf4064b7db0593914c58ba6725974a&organic_search_click=1&logging_key=ec4a90c0-a74e-40b9-8ade-91990a1d2b03%3ALTff63dd1ecfcf4064b7db0593914c58ba6725974a)
-12. [shelf](https://www.amazon.com/Beiyier-Equipment-Ventilated-Cantilever-Well-Ventilated/dp/B0CNXFP28B/ref=sr_1_132?crid=1YT5PIEHWT98&dib=eyJ2IjoiMSJ9.Jy1kT0PO8xLPqeQvmLrIsYC-IL06op5uL2gYG-aFy2tNUfFaZ6XucPv0JoqbRsDKJxfsUn0KDUPliLYb9_dZkg.84RvnLMiq5gkA0SyB3MkZ1IuJ0h0WUfJm5X1udGklog&dib_tag=se&keywords=server%2Brack%2Bshelf&qid=1781797974&sprefix=server%2Brack%2Bshelf%2Caps%2C127&xpid=FY5Cu2NEXRhA2&th=1
-13. continued
-14. -
-15. -
-16. -
-17. -
-18. -
-19. -
-20. -
-21. self
-22. -
-23. self
-24. -
-
-
+[modem](https://www.amazon.com/ARRIS-SURFboard-Approved-SB8200-Frustration/dp/B07DY16W2Z/ref=sr_1_1?crid=145CT6EA05ILA&dib=eyJ2IjoiMSJ9.-GRyifJmwzofu7GGMNBk-xzXWcpUg_Rr5xIxXLU2Bgo3NPHwo0sj_QGjCGD9Mr8sXNZczqUoGIS6OCsOq35WQopqrXJDg5CNdDZQ8_5dVwYlD_FfdWiIbqDScerbcWcqMWk0gxKofJWgS1iSiHGifW2ihUaQbSJCJ0VmCxNIeavg31ZA5rQUhHAjyBuKaZK9HVW3oLPo5syvMvJQOEakz8uLdXzlJSWiGfUHu1VN1LE.hF47knJl9-G-E65bQeL4Pa8TXk8lrrYAu_D39yIPinI&dib_tag=se&keywords=ARRIS%2BSURFboard%2BSB8200&qid=1781530009&sprefix=arris%2Bsurfboard%2Bsb8200%2Caps%2C125&sr=8-1&th=1)
