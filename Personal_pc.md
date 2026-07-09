@@ -11,7 +11,6 @@
   - monday.com
   - wco stream
   - discord
-  - gns3
   - other self hosted services
 - joplin
 - logitech software
@@ -20,4 +19,4 @@
 - chiaki
 - greenlight
 - moonlight
-- 
+- packet tracer
