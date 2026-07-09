@@ -25,7 +25,7 @@
 24. ~~continued~~
 
 
-[sub switch](https://store.ui.com/us/en/category/switching-utility/products/usw-flex-mini)
+[sub switch](https://store.ui.com/us/en/category/switching-utility/products/usw-flex-xg)
 [poe switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-16-poe)
 
 ~~[wap](https://store.ui.com/us/en/category/wifi-flagship/products/u7-lite)~~
