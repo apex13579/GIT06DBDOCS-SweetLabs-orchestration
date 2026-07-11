@@ -1,1 +1,1 @@
-- [lab labeling](Lab-labeling guideline.md)
+- [lab labeling](Lab-labeling-guideline.md)
