@@ -1,2 +1,3 @@
 - [Lab labeling](Lab-labeling-guideline.md)
 - [Maintenence practices](maintenance.md)
+- [Rack plan](lab_rack_layout.md)
