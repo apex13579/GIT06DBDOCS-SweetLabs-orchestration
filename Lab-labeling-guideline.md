@@ -9,6 +9,7 @@
 - Green = CCTV/Security
 - White = Telephony/Voice
 - Purple = Storage
+- Red = OOBM (kvm)
 # Devices
 - Labeled with date purchased and documentation number to correspond with documentation
 # Playbooks
