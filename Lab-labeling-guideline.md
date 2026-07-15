@@ -2,10 +2,12 @@
 ## Labeling practices
 - Heat shrink labels on each end with the port number and switch number associated with the run
 ## Color coding
-- Blue = Cameras and Security
-- White = Interior connections
-- Red = Wireless and IOT
-- Black = End devices
+- Orange = Backbone/uplink
+- Black = Servers/Equipment
+- Yellow = WIFI/Poe
+- Blue = Network data
+- Green = CCTV/Security
+- White = Telephony/Voice
 # Devices
 - Labeled with date purchased and documentation number to correspond with documentation
 # Playbooks
