@@ -31,4 +31,34 @@
 - American Eagle
 - Throne (maybe)
 - ebay
-- 
+- Calender (linked to nextcloud)
+- Reddit
+- Ai agent
+- Waze
+- Spotify
+- Steam
+- Shokz
+- Oura ring
+- Muscle Wiki
+- Training app
+- MantisX
+- Telegram (for lab notifications)
+- MTG life sync
+- Life elk
+- Home assistant
+- Immich
+- Credit kharma
+- Credit sesame
+- Joplin
+- AnkiDroid
+- Rocket book
+- Github
+- FreeCodeCamp
+- Thunderbird
+- Portfolio apps
+- Wallet apps
+- Twitch
+- Texting client
+- Linkedin
+- Instagram
+- Facebook (only for marketplace)
