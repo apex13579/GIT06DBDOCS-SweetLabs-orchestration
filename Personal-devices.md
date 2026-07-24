@@ -12,6 +12,8 @@
   - Monday.com
   - WCO stream
   - Discord
+  - Amazon
+  - Thingiverse
   - Other self hosted services
 - Joplin
 - Logitech software
@@ -25,6 +27,10 @@
 ### phone
 - Moonlight
 - Brave
+  ### Bookmarks
+  - WCO stream
+  - Amazon
+  - Thingiverse
 - Discord
 - Bitwarden
 - Tailscale
@@ -62,3 +68,5 @@
 - Linkedin
 - Instagram
 - Facebook (only for marketplace)
+- Youtube
+- Pintrest
