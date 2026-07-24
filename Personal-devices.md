@@ -1,0 +1,34 @@
+# Devices
+## Software
+### Windows 11 LTSC
+- Steam
+- Brave
+  #### Bookmarks
+  - Proxmox
+  - Truenas
+  - Linked in
+  - Deep seek (or my self hosted ai agent)
+  - Bitwarden
+  - Monday.com
+  - WCO stream
+  - Discord
+  - Other self hosted services
+- Joplin
+- Logitech software
+- Elgato software
+- Prusa slicer
+- Chiaki
+- Greenlight
+- Sunshine (Moonlight on client)
+- Packet tracer
+## Hardware
+### phone
+- Moonlight
+- Brave
+- Discord
+- Bitwarden
+- Tailscale
+- American Eagle
+- Throne (maybe)
+- ebay
+- 
