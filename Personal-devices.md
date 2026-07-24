@@ -1,5 +1,5 @@
 # Devices
-## Software
+## Main pc
 ### Windows 11 LTSC
 - Steam
 - Brave
@@ -23,8 +23,7 @@
 - Greenlight
 - Sunshine (Moonlight on client)
 - Packet tracer
-## Hardware
-### phone
+## phone
 - Moonlight
 - Brave
   ### Bookmarks
